@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672539586526",
+    "project_id": "ecomexample-d0934",
+    "storage_bucket": "ecomexample-d0934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672539586526:android:8954fbab565ffcad30b74f",
+        "android_client_info": {
+          "package_name": "com.example.modern_ecom_templet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3prsE6YPJ-R0UEMQKejhdQaQcGwwRGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
